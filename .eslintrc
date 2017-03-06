@@ -1,0 +1,7 @@
+{
+    "extends": "rallycoding",
+    "globals": {
+      "google": true
+  }
+}
+
